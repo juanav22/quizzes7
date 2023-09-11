@@ -36,7 +36,7 @@ while (n <= 15) {
 console.log('[Question #2]: ', numbers);
 /**
  * Question 3
- * Print all even numbers between 10 and 30 using a while loop.
+ * Print all even numbers between 10 and 30 using a while loop..
  */
 let even = [];
 num = 10;
